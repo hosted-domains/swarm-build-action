@@ -1,0 +1,8 @@
+.idea/
+*.iml
+.vscode/
+dist/
+node_modules/
+.env
+.secrets
+.vars
